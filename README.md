@@ -8,19 +8,19 @@ This project implements a peer-to-peer (P2P) chat program in Python that support
 ## Table of Contents
 
 - Team Members
-- **Bonus Implementation**
+- #### **Bonus Implementation**
 - Project Structure
 - Overview
 - Features
 - Installation and Setup
 - Usage Instructions - 
-  - **IMPORTANT NOTE**
+  - #### **IMPORTANT NOTE**
   - Run the Program
   - Interactive Menu
   - Exiting a Connection
-- **Example Usage (With screenshots) -**
+- #### **Example Usage (With screenshots) -**
 - Additional Features
-- Support
+-  Support
 
 ## Team Members
 
