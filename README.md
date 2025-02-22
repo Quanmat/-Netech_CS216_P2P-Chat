@@ -77,7 +77,7 @@ This program is designed to create a robust P2P chat network. It leverages socke
    ```bash
    git clone https://github.com/Quanmat/Netech_CS216_P2P-Chat.git
 3. **Navigate to the Project Directory:**
- Open your terminal and navigate to the project directory:
+ Open your terminal and navigate to the project directory: (Optional)
    ```bash 
    cd P2P_Chat
    ```
